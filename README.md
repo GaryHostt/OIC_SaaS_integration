@@ -221,7 +221,7 @@ Press save, and close the mapping.
 Your (almost) completed integration should look like this. Click save and close on the top right. 
 ![](screenshots/100/43.png)
 
-This integration was created in the old mapping, but in order for the integration to be run - you will import it to a new environment. We will now export the integration from this environment and import it to a new one. To do this, click the 4 horizontal lines to the far right of the integration and click export. This will save a .iar file to your downloads. 
+This integration was created in the old mapping, but to run the integration - you will import it to a new environment. We will now export the integration from this environment and import it to a new one. To do this, click the 4 horizontal lines to the far right of the integration and click export. This will save a .iar file to your downloads. 
 
 ![](screenshots/100/44.png)
 
