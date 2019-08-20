@@ -1,4 +1,4 @@
-# Integration ERP & CPQ
+# Integrating ERP & CPQ
 
 ![](screenshots/100/69.png)
 
